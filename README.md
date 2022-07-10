@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GramGra07 aka Graden
+- 👀 I’m interested in soccer, video games, and coding!
+- 🌱 I’m currently learning odometry and robot code (ftc)
+- 📫 How to reach me: Email
