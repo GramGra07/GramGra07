@@ -4,8 +4,8 @@
 <br/>
 -I am currently learning odometry and ftc robot code
 <br/>
--I am currently in First Tech Challenge robotics and soccer:soccer:
- <br/>
+-I am currently in First Tech Challenge robotics and soccer :soccer:
+<br/>
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
   
 <img align="middle" alt="Coding" width="400" height="200"
