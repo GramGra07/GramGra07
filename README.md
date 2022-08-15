@@ -8,6 +8,17 @@
 
 [![GramGra07's GitHub stats](https://github-readme-stats.vercel.app/api?username=GramGra07&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src ="https://user-images.githubusercontent.com/101433010/184673609-9d04876d-aabf-48fb-8152-34b14045a306.png" width="40" height="40")
+
+</div>
+
 ## About me!
 
 ### - I use VSC, android studio, github, and gitkraken :octocat:
@@ -22,6 +33,7 @@
 
 ### - I can code in MarkDown :-1:, python :snake:, java, HTML, C++, and JavaScript
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
+     
 <img align="middle" alt="Coding" width="400" height="200"
      src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
