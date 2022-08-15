@@ -21,11 +21,11 @@
 
 ## About me!
 
-### - I use VSC, android studio, github, and gitkraken :octocat:
+### - I use [VSC][vsca], [android studio][as], [github][githuba], and [gitkraken][gitkrakena] :octocat:
 
-### - I am currently learning odometry :thought_balloon: and ftc robot code :nut_and_bolt:
+### - I am currently learning odometry :thought_balloon: and [FTC][ftc] robot code :nut_and_bolt:
 
-### - I am currently in First Tech Challenge robotics :nut_and_bolt: and soccer :soccer:
+### - I am currently in [First Tech Challenge][ftc] robotics :nut_and_bolt: and soccer :soccer:
 
 ### - I am intrested in math, science, video games :video_game: , and engineering!
 
@@ -46,5 +46,15 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
+  
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif"
+width="200"/>
+</div>
 
 [prof]: https://github.com/GramGra07
+[gitkrakena]:https://www.gitkraken.com/
+[vsca]: https://code.visualstudio.com/
+[as]: https://developer.android.com/studio
+[githuba]: https://github.com/
+[ftc]: https://www.firstinspires.org/robotics/ftc
