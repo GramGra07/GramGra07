@@ -21,6 +21,8 @@
 
 ## About me!
 
+### - I am a High Schooler who loves soccer and robotics
+
 ### - I use [VSC][vsca], [android studio][as], [github][githuba], and [gitkraken][gitkrakena] :octocat:
 
 ### - I am currently learning odometry :thought_balloon: and [FTC][ftc] robot code :nut_and_bolt:
