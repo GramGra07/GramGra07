@@ -32,6 +32,12 @@
 ### - My hobbies include soccer :soccer: , robotics :nut_and_bolt: , and coding :metal:!
 
 ### - I can code in MarkDown :-1:, python :snake:, java, HTML, C++, and JavaScript
+
+## My other Repositories:
+[FTC Robot Controller 2021-2022 season][rc2021-22]
+
+[FTC code training module][train]
+
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
      
 <img align="middle" alt="Coding" width="400" height="200"
@@ -57,3 +63,5 @@ width="200"/>
 [as]: https://developer.android.com/studio
 [githuba]: https://github.com/
 [ftc]: https://www.firstinspires.org/robotics/ftc
+[rc2021-22]: https://github.com/GramGra07/FtcRobotController-10448-2021
+[train]: https://github.com/GramGra07/WHS-FTC-GramGra07-Code_Training_Mod
