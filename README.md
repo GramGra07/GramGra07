@@ -33,7 +33,9 @@
 
 ### - My hobbies include soccer :soccer: , robotics :nut_and_bolt: , and coding :metal:!
 
-### - I can code in MarkDown :-1:, python :snake:, java, HTML, C++, and JavaScript
+### - I can code in MarkDown :-1:, python :snake:, java, HTML, and C++
+  
+### - Python and Java are my preferred languages
 
 ## My other Repositories:
 [FTC Robot Controller 2021-2022 season FreightFrenzy][freight]
