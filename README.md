@@ -36,12 +36,13 @@
 ### - I can code in MarkDown :-1:, python :snake:, java, HTML, C++, and JavaScript
 
 ## My other Repositories:
-[FTC Robot Controller 2021-2022 season][rc2021-22]
+[FTC Robot Controller 2021-2022 season FreightFrenzy][freight]
+  
+[FTC Robot Controller 2022-2023 season PowerPlay][power]
 
-[FTC code training module][train]
-     
-<img align="middle" alt="Coding" width="400" height="200"
-     src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+[FTC Code Training Module][train]
+  
+[FTC Scouting Log][scout]
 
 ▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░                                        
 ▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░                                        
@@ -49,13 +50,6 @@
 ▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░                                        
 ░░░░▄▄███▄▄░░░░░█████░
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
-</div>
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif"
-width="200"/>
-</div>
 
 [prof]: https://github.com/GramGra07
 [gitkrakena]:https://www.gitkraken.com/
@@ -63,5 +57,7 @@ width="200"/>
 [as]: https://developer.android.com/studio
 [githuba]: https://github.com/
 [ftc]: https://www.firstinspires.org/robotics/ftc
-[rc2021-22]: https://github.com/GramGra07/FtcRobotController-10448-2021
+[freight]: https://github.com/GramGra07/FtcRobotController-10448-2021
+[power]: https://github.com/GramGra07/FtcRobotController-10448-2022-23
 [train]: https://github.com/GramGra07/WHS-FTC-GramGra07-Code_Training_Mod
+[scout]: https://github.com/GramGra07/FTCScoutingLogger
