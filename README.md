@@ -4,10 +4,6 @@
 
 ## :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GramGra07&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![GramGra07's GitHub stats](https://github-readme-stats.vercel.app/api?username=GramGra07&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GramGra07's codewars stats](https://www.codewars.com/users/GramGra07/badges/large)
 
 ### :hammer_and_wrench: Languages and Tools :
