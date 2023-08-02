@@ -1,6 +1,6 @@
 # Hey! I'm [GramGra07][prof]! :wave:
 
-## :see_no_evil: :hear_no_evil: :speak_no_evil: :man_technologist: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><img src="https://komarev.com/ghpvc/?username=your-github-GramGra07&style=flat-square&color=blue" alt=""/>
+## :see_no_evil: :hear_no_evil: :speak_no_evil: :man_technologist: 
 
 ## :fire: My Stats:
 
