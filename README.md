@@ -6,17 +6,6 @@
 
 ![GramGra07's codewars stats](https://www.codewars.com/users/GramGra07/badges/large)
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src ="https://user-images.githubusercontent.com/101433010/184673609-9d04876d-aabf-48fb-8152-34b14045a306.png" width="40" height="40")
-
-</div>
-
 ## About me!
 
 ### - I am a High Schooler who loves soccer and robotics
