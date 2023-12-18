@@ -1,5 +1,7 @@
 # Hey! I'm [GramGra07][prof]!
 
+# For any questions please email me at: gentrified.apps@gmail.com
+
 ## My Stats:
 
 ![GramGra07's codewars stats](https://www.codewars.com/users/GramGra07/badges/large)
