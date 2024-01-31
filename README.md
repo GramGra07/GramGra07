@@ -15,8 +15,7 @@ For any questions please email me at: gentrified.apps@gmail.com
 
 ![GramGra07's codewars stats](https://www.codewars.com/users/GramGra07/badges/large)
 
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GramGra07&theme=dark" height="180em" />
+State Machine FTC: [![](https://jitpack.io/v/GramGra07/StateMachineFTC.svg)](https://jitpack.io/#GramGra07/StateMachineFTC)
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GramGra07&theme=dark" height="180em" />
 
@@ -33,7 +32,7 @@ For any questions please email me at: gentrified.apps@gmail.com
 ### - I code in MarkDown, Python, Java, Dart, HTML, and C++
 
 ## My other Repositories:
-[Advent of Code 2023][aoc]
+[State Machine FTC][aoc]
 
 [Robotics Engineering Capstone][cap]
 
@@ -70,3 +69,4 @@ For any questions please email me at: gentrified.apps@gmail.com
 [stage]: https://github.com/GramGra07/FtcRobotController_2023-24
 [cap]: https://github.com/GramGra07/RE-Capstone-Project
 [aoc]: https://github.com/GramGra07/AdventOfCode2023
+[sm]: https://github.com/GramGra07/StateMachineFTC
