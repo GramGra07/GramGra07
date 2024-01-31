@@ -1,10 +1,8 @@
-# Hey! I'm [GramGra07][prof]!
+# Hey! I'm GramGra07!
 
 For any questions please email me at: gentrified.apps@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GramGra07&label=Profile%20views&color=0e75b6&style=flat" alt="GramGra07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GramGra07&theme=darkhub" alt="GramGra07" /></a> </p>
 
 ## Contact me!
 <a href="https://github.com/GramGra07" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -12,12 +10,22 @@ For any questions please email me at: gentrified.apps@gmail.com
 <a href="mailto:gentrified.apps@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20Me-8A2BE2" target="_blank"></a>
 
 ### My Stats
-
+----
 ![GramGra07's codewars stats](https://www.codewars.com/users/GramGra07/badges/large)
+
+----
 
 State Machine FTC: [![](https://jitpack.io/v/GramGra07/StateMachineFTC.svg)](https://jitpack.io/#GramGra07/StateMachineFTC)
 
+----
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GramGra07&theme=darkhub" alt="GramGra07" /></a> </p>
+
+----
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GramGra07&theme=dark" height="180em" />
+
+------
 
 ## About me!
 
