@@ -1,7 +1,5 @@
 # Hey! I'm GramGra07!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GramGra07&label=Profile%20views&color=0e75b6&style=flat" alt="GramGra07" /> </p>
-
-## Contact me!
+<a href="https://github.com/GramGra07" target="_blank"><img src="https://komarev.com/ghpvc/?username=GramGra07&label=Profile%20views&color=0e75b6&style=flat" alt="GramGra07" /></a>
 <a href="https://github.com/GramGra07" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="mailto:gentrified.apps@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20Me-8A2BE2" target="_blank"></a>
 
@@ -11,14 +9,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" **alt="arduino" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" **alt="arduino" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android" **alt="android" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" **alt="dart" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" **alt="xcode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
 
 ## My Stats
@@ -71,7 +68,6 @@ State Machine FTC Version: [![](https://jitpack.io/v/GramGra07/StateMachineFTC.s
 ▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░                                        
 ▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░                                        
 ░░░░▄▄███▄▄░░░░░█████░
-
 
 [prof]: https://github.com/GramGra07
 [gitkrakena]:https://www.gitkraken.com/
