@@ -45,7 +45,7 @@
 
 ### - I code in MarkDown, Python, Java, Dart, HTML, and C++
 
-## My other Repositories:
+## My Other Repositories:
 
 [![SM Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=StateMachineFTC)](https://github.com/GramGra07/StateMachineFTC)
 
