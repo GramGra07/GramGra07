@@ -26,7 +26,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GramGra07&theme=dark" height="180em" />
 
 <img height="180em" align = "left" src="https://github-readme-stats.vercel.app/api?username=GramGra07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GramGra07&theme=dark&title=top&exclude_repo=road-runner-quickstart,OLD_FtcRobotController-10448-2022-23" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GramGra07&theme=dark&exclude_repo=road-runner-quickstart,OLD_FtcRobotController-10448-2022-23" />
 
 ----
 
