@@ -28,6 +28,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GramGra07&theme=dark" height="180em" />
 
 <img height="180em" align = "left" src="https://github-readme-stats.vercel.app/api?username=GramGra07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GramGra07&theme=dark&exclude_repo=road-runner-quickstart,OLD_FtcRobotController-10448-2022-23,FTC-RobotController-2021-10448,FtcRobotController_2023-24" />
 
 ----
@@ -47,20 +48,17 @@
 
 ## My Other Repositories:
 
-[![SM Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=StateMachineFTC)](https://github.com/GramGra07/StateMachineFTC)
+[![SM Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=StateMachineFTC)](https://github.com/GramGra07/StateMachineFTC)[![CTM Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=WHS-FTC-GramGra07-Code_Training_Module)](https://github.com/GramGra07/WHS-FTC-GramGra07-Code_Training_Module)
 
 State Machine FTC Version: [![](https://jitpack.io/v/GramGra07/StateMachineFTC.svg)](https://jitpack.io/#GramGra07/StateMachineFTC)
 
-[![CTM Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=WHS-FTC-GramGra07-Code_Training_Module)](https://github.com/GramGra07/WHS-FTC-GramGra07-Code_Training_Module)
-
 [![Capstone Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=RE-Capstone-Project)](https://github.com/GramGra07/RE-Capstone-Project)
-
 [![Scouting Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FTCScoutingLogger)](https://github.com/GramGra07/FTCScoutingLogger)
 
+[![2025 Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController_2024-25_5115)](https://github.com/GramGra07/FtcRobotController_2024-25_5115)
 [![CenterStage Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController_2023-24)](https://github.com/GramGra07/FtcRobotController_2023-24)
 
 [![PowerPlay Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController-10448-2022-23)](https://github.com/GramGra07/FtcRobotController-10448-2022-23)
-
 [![FF Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FTC-RobotController-2021-10448)](https://github.com/GramGra07/FTC-RobotController-2021-10448)
 
 ▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░                                        
