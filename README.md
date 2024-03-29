@@ -42,7 +42,23 @@
 
 ### - My hobbies include soccer, robotics, and coding
 
-### - Currently developing two flutter applications
+### - Currently have 3 apps on the App Store
+
+## AP Chem Kinetics Sim
+
+https://apps.apple.com/us/app/ap-chem-kinetics/id6480323465
+
+## FTC Scouting
+
+https://apps.apple.com/us/app/ftc-scouting/id6474563665
+
+https://play.google.com/store/apps/details?id=com.gentrifiedApps.ftcFlutter
+
+## OSLC
+
+https://apps.apple.com/us/app/oslc/id6474106899
+
+https://play.google.com/store/apps/details?id=com.greeleylutheran.oslcinfo
 
 ### - I code in MarkDown, Python, Java, Dart, HTML, and C++
 
