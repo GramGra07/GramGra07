@@ -46,21 +46,31 @@
 
 ## AP Chem Kinetics Sim
 
-https://apps.apple.com/us/app/ap-chem-kinetics/id6480323465
+<a href="https://apps.apple.com/us/app/ap-chem-kinetics/id6480323465">
+  <img src="https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png" alt="Apple Logo" style="width:88.88888px;height:50px;">
+</a>
 
 ## FTC Scouting
 
-https://apps.apple.com/us/app/ftc-scouting/id6474563665
+<a href="https://apps.apple.com/us/app/ftc-scouting/id6474563665">
+  <img src="https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png" alt="Apple Logo" style="width:88.88888px;height:50px;">
+</a>
 
-https://play.google.com/store/apps/details?id=com.gentrifiedApps.ftcFlutter
+<a href="https://play.google.com/store/apps/details?id=com.gentrifiedApps.ftcFlutter">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Google_Play_2016_icon.svg" alt="Google Logo" style="width:44px;height:50px;">
+</a>
 
 ## OSLC
 
-https://apps.apple.com/us/app/oslc/id6474106899
+<a href="https://apps.apple.com/us/app/oslc/id6474106899">
+  <img src="https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png" alt="Apple Logo" style="width:88.88888px;height:50px;">
+</a>
 
-https://play.google.com/store/apps/details?id=com.greeleylutheran.oslcinfo
+<a href="https://play.google.com/store/apps/details?id=com.greeleylutheran.oslcinfo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Google_Play_2016_icon.svg" alt="Google Logo" style="width:44px;height:50px;">
+</a>
 
-### - I code in MarkDown, Python, Java, Dart, HTML, and C++
+### - I can code in Python, Java, Kotlin, Dart, Swift, and Arduino C++
 
 ## My Other Repositories:
 
