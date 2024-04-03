@@ -79,14 +79,16 @@
 
 State Machine FTC Version: [![](https://jitpack.io/v/GramGra07/StateMachineFTC.svg)](https://jitpack.io/#GramGra07/StateMachineFTC)
 
+[![VelocityVision](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=https://github.com/GramGra07/VelocityVision)](https://github.com/GramGra07/VelocityVision)
+[![2025 Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController_2024-25_5115)](https://github.com/GramGra07/FtcRobotController_2024-25_5115)
+
+Velocity Vision Version: [![](https://jitpack.io/v/GramGra07/VelocityVision.svg)](https://jitpack.io/#GramGra07/VelocityVision)
+
 [![Capstone Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=RE-Capstone-Project)](https://github.com/GramGra07/RE-Capstone-Project)
 [![Scouting Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FTCScoutingLogger)](https://github.com/GramGra07/FTCScoutingLogger)
 
-[![2025 Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController_2024-25_5115)](https://github.com/GramGra07/FtcRobotController_2024-25_5115)
 [![CenterStage Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController_2023-24)](https://github.com/GramGra07/FtcRobotController_2023-24)
-
 [![PowerPlay Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController-10448-2022-23)](https://github.com/GramGra07/FtcRobotController-10448-2022-23)
-[![FF Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FTC-RobotController-2021-10448)](https://github.com/GramGra07/FTC-RobotController-2021-10448)
 
 [prof]: https://github.com/GramGra07
 [gitkrakena]:https://www.gitkraken.com/
