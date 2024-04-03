@@ -79,7 +79,7 @@
 
 State Machine FTC Version: [![](https://jitpack.io/v/GramGra07/StateMachineFTC.svg)](https://jitpack.io/#GramGra07/StateMachineFTC)
 
-[![VelocityVision](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=https://github.com/GramGra07/VelocityVision)](https://github.com/GramGra07/VelocityVision)
+[![VelocityVision](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=VelocityVision)](https://github.com/GramGra07/VelocityVision)
 [![2025 Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController_2024-25_5115)](https://github.com/GramGra07/FtcRobotController_2024-25_5115)
 
 Velocity Vision Version: [![](https://jitpack.io/v/GramGra07/VelocityVision.svg)](https://jitpack.io/#GramGra07/VelocityVision)
