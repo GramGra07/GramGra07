@@ -36,7 +36,7 @@
 
 ## About me!
 
-### - I am a Junior in High School and I am in soccer and robotics
+### - I am a Senior in High School and I am in soccer and robotics
 
 ### - [First Tech Challenge][ftc] robotics team 5115 Lead Programmer
 
