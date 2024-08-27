@@ -42,7 +42,17 @@
 
 ### - My hobbies include soccer, robotics, and coding
 
-### - Currently have 3 apps on the App Store
+### - Currently have 4 apps on the App Store
+
+## ZipList
+
+<a href="https://apps.apple.com/us/app/ziplist/id6639599555">
+  <img src="https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png" alt="Apple Logo" style="width:88.88888px;height:50px;">
+</a>
+
+<a href="https://ziplist.web.app/">
+  <img src="https://1000logos.net/wp-content/uploads/2016/11/Google-Symbol.png" alt="Google Logo" style="width:88.88888px;height:50px;">
+</a>
 
 ## AP Chem Kinetics Sim
 
