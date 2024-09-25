@@ -96,6 +96,10 @@ State Machine FTC Version: [![](https://jitpack.io/v/GramGra07/StateMachineFTC.s
 
 Velocity Vision Version: [![](https://jitpack.io/v/GramGra07/VelocityVision.svg)](https://jitpack.io/#GramGra07/VelocityVision)
 
+[![GentrifiedAppsUtil](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=GentrifiedAppsUtil)](https://github.com/GramGra07/GentrifiedAppsUtil)
+
+Gentrified Apps Util Version: [![](https://jitpack.io/v/GramGra07/GentrifiedAppsUtil.svg)](https://jitpack.io/#GramGra07/GentrifiedAppsUtil)
+
 [![Capstone Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=RE-Capstone-Project)](https://github.com/GramGra07/RE-Capstone-Project)
 [![Scouting Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FTCScoutingLogger)](https://github.com/GramGra07/FTCScoutingLogger)
 
