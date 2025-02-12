@@ -86,19 +86,15 @@
 
 ## My Other Repositories:
 
-[![SM Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=StateMachineFTC)](https://github.com/GramGra07/StateMachineFTC)
+[![GentrifiedAppsUtil](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=GentrifiedAppsUtil)](https://github.com/GramGra07/GentrifiedAppsUtil)
 [![CTM Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=WHS-FTC-GramGra07-Code_Training_Module)](https://github.com/GramGra07/WHS-FTC-GramGra07-Code_Training_Module)
 
-State Machine FTC Version: [![](https://jitpack.io/v/GramGra07/StateMachineFTC.svg)](https://jitpack.io/#GramGra07/StateMachineFTC)
+Gentrified Apps Util Version: [![](https://jitpack.io/v/GramGra07/GentrifiedAppsUtil.svg)](https://jitpack.io/#GramGra07/GentrifiedAppsUtil)
 
 [![VelocityVision](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=VelocityVision)](https://github.com/GramGra07/VelocityVision)
 [![2025 Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController_2024-25_5115)](https://github.com/GramGra07/FtcRobotController_2024-25_5115)
 
 Velocity Vision Version: [![](https://jitpack.io/v/GramGra07/VelocityVision.svg)](https://jitpack.io/#GramGra07/VelocityVision)
-
-[![GentrifiedAppsUtil](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=GentrifiedAppsUtil)](https://github.com/GramGra07/GentrifiedAppsUtil)
-
-Gentrified Apps Util Version: [![](https://jitpack.io/v/GramGra07/GentrifiedAppsUtil.svg)](https://jitpack.io/#GramGra07/GentrifiedAppsUtil)
 
 [![Capstone Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=RE-Capstone-Project)](https://github.com/GramGra07/RE-Capstone-Project)
 [![Scouting Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FTCScoutingLogger)](https://github.com/GramGra07/FTCScoutingLogger)
