@@ -91,10 +91,7 @@
 
 Gentrified Apps Util Version: [![](https://jitpack.io/v/GramGra07/GentrifiedAppsUtil.svg)](https://jitpack.io/#GramGra07/GentrifiedAppsUtil)
 
-[![VelocityVision](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=VelocityVision)](https://github.com/GramGra07/VelocityVision)
 [![2025 Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FtcRobotController_2024-25_5115)](https://github.com/GramGra07/FtcRobotController_2024-25_5115)
-
-Velocity Vision Version: [![](https://jitpack.io/v/GramGra07/VelocityVision.svg)](https://jitpack.io/#GramGra07/VelocityVision)
 
 [![Capstone Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=RE-Capstone-Project)](https://github.com/GramGra07/RE-Capstone-Project)
 [![Scouting Card](https://github-readme-stats.vercel.app/api/pin/?username=GramGra07&theme=dark&repo=FTCScoutingLogger)](https://github.com/GramGra07/FTCScoutingLogger)
